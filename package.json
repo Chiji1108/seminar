@@ -4,5 +4,9 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "sanity-codegen": "^0.9.6"
+  }
 }
